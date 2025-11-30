@@ -1,0 +1,7 @@
+{
+  "name": "OmniSci AI",
+  "description": "A high-performance, STEM-focused AI chat assistant capable of reasoning in Math, Physics, Chemistry, and Biology, with multilingual support including Indonesian.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
